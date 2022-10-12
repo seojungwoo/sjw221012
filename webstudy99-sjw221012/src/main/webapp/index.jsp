@@ -13,8 +13,10 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
+
+
 <div class="container pt-3">
-index  서정우
+index  서정우  아이유
 강사님 최고
 
 </div>
