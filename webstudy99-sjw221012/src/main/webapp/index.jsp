@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-index  서정우 
+index  서정우  아이유
 </div>
 </body>
 </html>
