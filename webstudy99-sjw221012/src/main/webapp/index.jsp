@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-index  서정우 
+강사님 최고
 </div>
 </body>
 </html>
